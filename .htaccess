@@ -1,0 +1,8 @@
+AuthType Basic
+AuthName "minu oma, hoia eemale"
+AuthUserFile C:\wamp\www\.htpasswd
+Require valid-user
+
+<files "*.txt">
+deny from all
+</files>
