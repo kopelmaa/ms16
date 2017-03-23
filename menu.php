@@ -2,7 +2,7 @@
 
 $user = "Gustav";
 
-$menu_arr = array ('andmebaasid','massiivid','hint','file','koopia','methods');
+$menu_arr = array ('andmebaasid','massiivid','hint','file','koopia','methods','mysql');
 
 $menu_begin= '<div>'.$user;
 
